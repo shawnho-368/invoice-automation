@@ -1,0 +1,49 @@
+CONTRACTOR PAYMENT REPORT - WEEKLY BATCH
+=========================================
+Vendor: Alex Rodriguez Consulting
+Amount: $1,325.50
+Date: 2024-03-16
+Project: PROJ-003
+Description: Mobile app testing
+
+---
+Vendor: Emma Thompson Design Co.
+Amount: 2,250.00
+Date: March 17, 2024  
+Project: proj-001
+Description: UI/UX design work
+
+---
+Vendor: Ryan O'Brien Development
+Amount: $875.75
+Date: 03-18-2024
+Project: PROJECT-002
+Description: API integration work
+
+---
+Vendor: Maria Santos Consulting
+Amount: 1,650 dollars
+Date: Mar 19th, 2024
+Project: P-003
+Description: Project management services
+
+---
+Vendor: Kevin Chang Solutions
+Amount: $2,450.25
+Date: 2024/03/20
+Project: PROJ-001
+Description: Full-stack development
+
+---
+Vendor: Nicole Brown Designs
+Amount: 1125.00
+Date: March 21, 2024
+Project: proj-004
+Description: Website redesign work
+
+---
+Vendor: Chris Taylor Tech
+Amount: $1,850 dollars
+Date: 22-03-2024
+Project: PROJECT-003
+Description: Database migration services
